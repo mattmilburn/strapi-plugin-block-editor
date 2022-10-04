@@ -1,0 +1,45 @@
+{
+  "name": "strapi-plugin-block-editor",
+  "version": "0.0.0",
+  "description": "Block editor for rich text content editing.",
+  "strapi": {
+    "name": "Block Editor",
+    "description": "Block editor for rich text content editing.",
+    "kind": "plugin"
+  },
+  "author": {
+    "name": "Matt Milburn"
+  },
+  "maintainers": [
+    {
+      "name": "Matt Milburn"
+    }
+  ],
+  "homepage": "https://github.com/mattmilburn/strapi-plugin-block-editor#readme",
+  "bugs": {
+    "url": "https://github.com/mattmilburn/strapi-plugin-block-editor/issues"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mattmilburn/strapi-plugin-block-editor.git"
+  },
+  "engines": {
+    "node": ">=12.x.x <=16.x.x",
+    "npm": ">=6.0.0"
+  },
+  "keywords": [
+    "strapi",
+    "plugin",
+    "blocks",
+    "content",
+    "editor",
+    "json",
+    "richtext",
+    "structured",
+    "text"
+  ]
+}
